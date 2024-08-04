@@ -317,6 +317,9 @@ SoakingPot.addRecipe("pot_slaked_lime",<pyrotech:material:8>,<liquid:water>*125,
 GraniteAnvil.removeRecipes(<minecraft:dye:15>);
 GraniteAnvil.addRecipe("anvil_bonemeal",<minecraft:dye:15>*2,<pyrotech:material:11>,3,"hammer");
 
+GraniteAnvil.removeRecipes(<pyrotech:material:28>);
+GraniteAnvil.addRecipe("anvil_limedust_fix",<pyrotech:material:28>,<pyrotech:rock:8>,3,"hammer");
+
 
 val clayball = <minecraft:clay_ball>;
 val ash = <pyrotech:material>;

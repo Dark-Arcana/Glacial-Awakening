@@ -1,10 +1,40 @@
 =-= Changelog =-=
 
+v1.2.3 - 2024-08-04
+===
+
+Updated Mods:
+- AE2 Unofficial Extended Life
+- Alfheim Lighting Engine
+- CensoredASM
+- ConfigAnytime
+- Controlling
+- Corail Tombstone
+- CraftTweaker
+- Dropt
+- Had Enough Items
+- JourneyMap
+- MixinBooter
+- NuclearCraft
+- Pyrotech
+- Red Core
+- Roots
+- SerializationIsBad
+- Sledgehammer
+- Startup Timer
+- Universal Tweaks
+- Valkyrie
+- VintageFix
+
+Changes/Bugfixes:
+- fixed the broken quest in chapter 2 blocking progress to chapter 3
+- fixed broken recipe for limestone dust
+
 v1.2.2 - 2023-09-16
 ===
 
 Added Mods:
-- Alfheim Lightning Engine
+- Alfheim Lighting Engine
 - Red Core
 - Spark
 - Valkyrie

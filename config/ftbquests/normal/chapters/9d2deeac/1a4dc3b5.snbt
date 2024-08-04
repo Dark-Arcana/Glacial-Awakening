@@ -34,7 +34,7 @@
 		uid: "51d39ad5",
 		type: "item",
 		items: [{
-			item: "roots:offertory_plate"
+			item: "roots:catalyst_plate"
 		}]
 	}],
 	rewards: [{
